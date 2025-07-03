@@ -17,10 +17,10 @@ body{
     border: black 1px;
     border-style:dashed;
     border-radius: 15px;
+    transition: 1s ease-in-out;
 }
 
 .btn:hover{
     background: rgb(157, 32, 38);
     color: bisque;
-    transition: 1.1s ease-in-out;
 }
